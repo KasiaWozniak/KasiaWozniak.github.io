@@ -1,0 +1,13 @@
+title: Kasia Woźniak
+
+description: >-
+  Narzędzia informatyczne to najlepszy przedmiot na tych studiach!
+
+baseurl: ""
+url: "https://KasiaWozniak.github.io"
+
+github_username: KasiaWozniak
+
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
